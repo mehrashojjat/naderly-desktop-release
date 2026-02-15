@@ -1,8 +1,8 @@
 version: 1.0.0
 files:
   - url: rovi.so-Setup-1.0.0.exe
-    sha512: 1FxhW6bS91gWNo2jvoay56LeQ9tmnlnCrLnncVBkjGV2xN/YKV6xvxjz2Rka+QMxijaPgtXtUM7cBtSE4iIA7g==
-    size: 95542282
+    sha512: +YnemMRhFOzRwAYMR9vqapOOGHHM9UBhpUqyUPmrOIWVsEcrz9uEiKBmTy2+dpeUQaLeLCwOyY9x99AB80a6uA==
+    size: 95542338
 path: rovi.so-Setup-1.0.0.exe
-sha512: 1FxhW6bS91gWNo2jvoay56LeQ9tmnlnCrLnncVBkjGV2xN/YKV6xvxjz2Rka+QMxijaPgtXtUM7cBtSE4iIA7g==
-releaseDate: '2026-02-15T15:16:02.694Z'
+sha512: +YnemMRhFOzRwAYMR9vqapOOGHHM9UBhpUqyUPmrOIWVsEcrz9uEiKBmTy2+dpeUQaLeLCwOyY9x99AB80a6uA==
+releaseDate: '2026-02-15T16:40:35.635Z'
